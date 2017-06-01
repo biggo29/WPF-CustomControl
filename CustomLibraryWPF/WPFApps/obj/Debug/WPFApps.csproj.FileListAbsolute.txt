@@ -1,0 +1,15 @@
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\bin\Debug\WPFApps.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\bin\Debug\WPFApps.exe
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\bin\Debug\WPFApps.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\bin\Debug\CustomLibraryWPF.dll
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\bin\Debug\CustomLibraryWPF.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\WPFApps.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\WPFApps_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\WPFApps.g.resources
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\WPFApps.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\WPFApps.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\WPFApps.exe
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\WPFApps\obj\Debug\WPFApps.pdb

@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\bin\Debug\CustomLibraryWPF.dll
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\bin\Debug\CustomLibraryWPF.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\CustomLibraryWPF_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\CustomLibraryWPF_MarkupCompile.lref
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\Themes\Generic.baml
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\CustomLibraryWPF.g.resources
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\CustomLibraryWPF.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\CustomLibraryWPF.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\CustomLibraryWPF.dll
+c:\users\asus\documents\visual studio 2013\Projects\CustomLibraryWPF\CustomLibraryWPF\obj\Debug\CustomLibraryWPF.pdb
